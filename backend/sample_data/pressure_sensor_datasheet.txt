@@ -1,0 +1,36 @@
+PRESSURESENSE CORP
+Technical Datasheet
+
+Product: PressureSense PS-200 Industrial Pressure Sensor
+Product Code: PS-200
+Category: Sensors
+Manufacturer: PressureSense Corp
+
+Description:
+High-accuracy piezoresistive pressure sensor for industrial process
+monitoring, HVAC systems, and hydraulic equipment.
+
+Technical Specifications:
+- Material: Stainless Steel 316L wetted parts
+- Dimensions: Length 65 mm, Width 22 mm, Height 22 mm
+- Weight: 0.15 kg
+- Voltage: 24V DC (10-30V DC range)
+- Power: 0.5 W
+- Pressure rating: 0 to 25 bar
+- Accuracy: +/- 0.25% full scale
+- Operating temperature range: -40C to 125C
+- Output signal: 4-20mA
+
+Certifications: CE, RoHS, IP67
+
+Applications:
+- Hydraulic system monitoring
+- HVAC pressure control
+- Industrial process automation
+- Compressor monitoring
+
+Features:
+- Robust stainless steel housing
+- High EMC immunity
+- Fast response time (<5ms)
+- Wide temperature compensation range

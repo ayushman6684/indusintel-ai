@@ -1,0 +1,40 @@
+INDUSFLOW INDUSTRIES
+Technical Datasheet
+
+Product: IndusFlow HCX-500 Centrifugal Pump
+Product Code: HCX-500
+Category: Industrial Pumps
+Manufacturer: IndusFlow Industries
+
+Description:
+Heavy-duty end-suction centrifugal pump designed for water transfer,
+chemical processing, and industrial cooling applications. Engineered for
+continuous duty in demanding environments.
+
+Technical Specifications:
+- Material: Cast Iron body, Stainless Steel 316 impeller
+- Dimensions: Length 450 mm, Width 300 mm, Height 380 mm
+- Weight: 42 kg
+- Voltage: 415V, 3-phase
+- Power: 7.5 kW
+- Maximum operating pressure: 10 bar
+- Flow rate: 250 L/min
+- Operating temperature range: -10C to 90C
+- Operating environment: Indoor / Outdoor, IP55
+
+Certifications: CE, ISO 9001, ATEX (optional)
+
+Applications:
+- Municipal water supply
+- Chemical processing plants
+- Industrial cooling systems
+- Wastewater treatment
+
+Features:
+- Self-priming design
+- Corrosion-resistant wetted parts
+- Low noise operation
+- Easy maintenance access
+
+Note: Certification for hazardous locations (ATEX) available on request;
+standard unit is not ATEX rated unless explicitly ordered.

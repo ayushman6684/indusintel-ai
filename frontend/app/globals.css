@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "IBM Plex Sans", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+}
+
+html,
+body {
+  background-color: #0f1417;
+  color: #e7ebec;
+}
+
+body {
+  font-family: var(--font-body);
+  background-image:
+    linear-gradient(#161d2100 1px, transparent 1px),
+    linear-gradient(90deg, #161d2100 1px, transparent 1px);
+}
+
+::selection {
+  background: #f2a93b33;
+  color: #fff;
+}
+
+.plate {
+  background: #161d21;
+  border: 1px solid #232d33;
+}
+
+.rivet {
+  position: relative;
+}
+.rivet::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(180deg, #f2a93b, #4c90ac);
+  opacity: 0.6;
+}
+
+.status-chip {
+  font-family: var(--font-mono);
+  letter-spacing: 0.04em;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 3px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  text-transform: uppercase;
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #2a343a;
+  border-radius: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
