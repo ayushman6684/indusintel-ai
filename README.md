@@ -104,7 +104,6 @@ lucide-react
 **Document processing:** PyMuPDF, pdfplumber, pandas
 
 ## Project Structure
-
 ```
 indusintel-ai/
 ├── frontend/            Next.js app (dashboard, upload, products, analytics)
